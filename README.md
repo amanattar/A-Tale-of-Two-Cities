@@ -7,7 +7,7 @@
 Clustering the Neighbourhoods of Mumbai and London
   <br>
   <br>
-Thomas George Thomas
+Amanul Rahiman Shamshuddin Attar
 <br>
   <br>
 30th January 2021
