@@ -8,9 +8,8 @@ Clustering the Neighbourhoods of Mumbai and London
   <br>
   <br>
 Amanul Rahiman Shamshuddin Attar
-<br>
   <br>
-30th January 2021
+  <br>
 </h2>
 
 ### Project Links:
