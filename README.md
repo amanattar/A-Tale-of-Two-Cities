@@ -15,7 +15,7 @@ Amanul Rahiman Shamshuddin Attar
 ### Project Links:
 
 1. **Code:** [Jupyter Notebook](https://github.com/amanattar/A-Tale-of-Two-Cities/blob/main/Tale_of_Two_Cities_Data_Science_Project.ipynb)
-2. **Blog Post:** [Medium Article](https://medium.com/@attar.aman29/a-tale-of-two-cities-a8ade7fb5213)
+2. **Blog Post:** [Medium Article](https://amanattar.medium.com/a-tale-of-two-cities-mumbai-and-london-42da60e79785)
 3. **Report:** [Report](https://github.com/amanattar/A-Tale-of-Two-Cities/blob/main/Tale_of_Two_Cities_Report.ipynb)
 
 # 1. Introduction
